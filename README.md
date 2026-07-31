@@ -7,4 +7,4 @@ TextEdit - текстовый редактор. Основное предназ�
 
 ***
 
-<a href="https://dalink.to/foxwmulder"> ☕️ Угостить автора кофем </a>
+<a href="https://dalink.to/foxwmulder"> ☕️ Угостить автора кофе </a>
